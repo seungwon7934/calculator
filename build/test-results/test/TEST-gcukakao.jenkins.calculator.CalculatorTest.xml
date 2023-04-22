@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="gcukakao.jenkins.calculator.CalculatorTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-04-22T04:52:40" hostname="DESKTOP-JNK8R22" time="0.041">
+<testsuite name="gcukakao.jenkins.calculator.CalculatorTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-04-22T04:55:18" hostname="DESKTOP-JNK8R22" time="0.054">
   <properties/>
-  <testcase name="testSub()" classname="gcukakao.jenkins.calculator.CalculatorTest" time="0.041">
+  <testcase name="testSub()" classname="gcukakao.jenkins.calculator.CalculatorTest" time="0.054">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;1&gt; but was: &lt;-3&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;1&gt; but was: &lt;-3&gt;
 	at app//org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at app//org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
