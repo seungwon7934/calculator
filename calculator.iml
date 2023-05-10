@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/gradle/wrapper/gradle-wrapper.jar!/" />
+    <libelement value="file://C:/Users/user/.m2/repository/org/springframework/boot/spring-boot-test/2.3.1.RELEASE/spring-boot-test-2.3.1.RELEASE.jar" />
+    <libelement value="file://C:/Users/user/.m2/repository/org/springframework/boot/spring-boot-test/2.6.7/spring-boot-test-2.6.7.jar" />
+    <libelement value="file://C:/Users/user/.m2/repository/org/springframework/boot/spring-boot-test/2.7.3/spring-boot-test-2.7.3.jar" />
+    <libelement value="file://C:/Users/user/.m2/repository/org/springframework/boot/spring-boot-test/2.7.4/spring-boot-test-2.7.4.jar" />
+    <varelement var="file://$M2_REPO$/org/springframework/boot/spring-boot-test/2.0.6.RELEASE/spring-boot-test-2.0.6.RELEASE.jar" value="M2_REPO/org/springframework/boot/spring-boot-test/2.0.6.RELEASE/spring-boot-test-2.0.6.RELEASE.jar" />
+    <src_description expected_position="1">
+      <src_folder value="file://$MODULE_DIR$/src/main/java" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/src/test/java" expected_position="2" />
+    </src_description>
+  </component>
+</module>
